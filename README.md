@@ -1,9 +1,18 @@
 ## Awesome HTML CSS and JS backgrounds (including particle.js)
 
-* [Matrix Rain](/matrix.html)
+* Matrix Rain:
+    * [code](/matrix.html)
+    * [view](https://26prajval98.github.io/backgrounds/matrix.html)
 
-* [Fluid](/fluid.html)
+* Fluid:
+    * [code](/fluid.html)
+    * [view](https://26prajval98.github.io/backgrounds/fluid.html)
 
-* [Circuit](/ciruit.html)
+* Circuit:
+    * [code](/ciruit.html)
+    * [view](https://26prajval98.github.io/backgrounds/circuit.html)
 
-* [Particle.js](/)
+* Particle.js:
+    * [code](/particle.html)
+    * [view](https://26prajval98.github.io/backgrounds/particle.html)
+    
